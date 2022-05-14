@@ -218,6 +218,19 @@ a.button:focus {
   zoom: 1;
 }
 
+ /*Apply to all mark tags*/
+mark {
+  background-color: blue; /*Add your desired color*/
+}
+/*Apply it to a class*/
+.mark { 
+  background-color: blue; /*Add your desired color*/
+}
+/*Apply it to an ID*/
+#mark {
+  background-color: blue; /*Add your desired color*/
+}
+
 #videoal video
 {
   margin: 30px 0px 0px 20px;
